@@ -1,2 +1,2 @@
 # connect-four-game
-Creating Connect Four GUI game By Python
+Creating Connect Four game GUI By Python
